@@ -35,8 +35,9 @@ To run the code:
 This runs the code with the default options.
 Read below for a summary of model options.
 
-A png called 'verify_fig' is saved in the *results* directory upon completion,
-showing the relative wave speed and shape errors over time.
+A png called 'verify_fig' is saved in the *results* directory upon completion.
+This shows the relative wave speed and shape errors over time, along with
+the initial and final (true vs. computed) wave profiles.
 
 # Output
 Model output is saved in a *results* directory. This includes:
